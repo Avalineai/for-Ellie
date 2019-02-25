@@ -1,4 +1,10 @@
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: #303030;
+    background-color: #236AB9;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    color: #133863;
 }
